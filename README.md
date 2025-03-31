@@ -21,6 +21,8 @@ This provides a step-by-step process for setting up a **Virtual Private Cloud (V
    - **Tenancy:** Default
 4. Click **Create VPC**.
 
+![Image Alt](https://github.com/Lisaeileen/AWS-VPC-setup/blob/ed426a0c2159868466dfa9aebb61c82bf85ce4ec/vpc.png)
+
 ---
 
 ## **Step 2: Create Subnets**
