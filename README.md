@@ -45,12 +45,16 @@ This provides a step-by-step process for setting up a **Virtual Private Cloud (V
    - **Availability Zone:** Same or different from PublicSubnet. I used us-east-1b
 4. Click **Create Subnet**.
 
+![Image Alt](https://github.com/Lisaeileen/AWS-VPC-setup/blob/b50b3c3523fdb8c63a9a05a820c8184b9a7810f9/subnet.png)
+
 ---
 
 ## **Step 3: Create an Internet Gateway (IGW)**
 1. Navigate to **Internet Gateways** → Click **Create Internet Gateway**.
 2. Enter **Name:** `igw-c16`.
 3. Click **Create** and then **Attach** it to `vpc-project`.
+
+![Image Alt](https://github.com/Lisaeileen/AWS-VPC-setup/blob/b50b3c3523fdb8c63a9a05a820c8184b9a7810f9/igw.png)
 
 ---
 
@@ -123,6 +127,8 @@ This provides a step-by-step process for setting up a **Virtual Private Cloud (V
    http://<EC2-Public-IP>:8080
    ```
 2. You should see the **Tomcat Welcome Page**.
+
+![Image Alt](https://github.com/Lisaeileen/AWS-VPC-setup/blob/b50b3c3523fdb8c63a9a05a820c8184b9a7810f9/tomcat.png)
 
 ---
 
