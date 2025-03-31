@@ -3,6 +3,8 @@
 ## Overview
 This provides a step-by-step process for setting up a **Virtual Private Cloud (VPC)** in AWS and configuring essential components such as **Subnets, Route Tables, Internet Gateway, NAT Gateway**, and launching an **EC2 instance with Tomcat as a Jump Server**.
 
+![Image Alt](https://github.com/Lisaeileen/AWS-VPC-setup/blob/967953be70ec1091d219b1a989de30cbab48f99e/vpc-architecture.png)
+
 ## Prerequisites
 - An **AWS Account**
 - AWS **IAM user** with required permissions
@@ -147,5 +149,5 @@ This architecture can be further expanded to host **multi-tier applications** se
 
 ---
 
-✅ **Enjoy your AWS VPC setup!** 🚀
+
 
